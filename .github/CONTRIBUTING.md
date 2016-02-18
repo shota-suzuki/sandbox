@@ -1,0 +1,3 @@
+# contributing
+
+foo baz bar
